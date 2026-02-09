@@ -21,7 +21,7 @@
 
 //===============================================================================================================
 // current issue : joystick axis reading reach max value even when the stick hasnt reach its mechanical limit
-// another issue : all characteristic values are copy pasted from AI (make sure to learn and modify it)
+// another issue : all characteristic values are still template (make sure to learn and modify it)
 
 
 
